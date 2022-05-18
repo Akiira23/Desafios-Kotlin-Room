@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_ordena_produtos_nome_desc"
+        android:icon="@drawable/ic_ordena_preto"
+        android:title="nome desc" />
+    <item
+        android:id="@+id/menu_ordena_produtos_nome_asc"
+        android:title="nome asc" />
+    <item
+        android:id="@+id/menu_ordena_produtos_descricao_desc"
+        android:title="descrição desc" />
+    <item
+        android:id="@+id/menu_ordena_produtos_descricao_asc"
+        android:title="descrição asc" />
+    <item
+        android:id="@+id/menu_ordena_produtos_valor_desc"
+        android:title="valor desc" />
+    <item
+        android:id="@+id/menu_ordena_produtos_valor_asc"
+        android:title="valor asc" />
+    <item
+        android:id="@+id/menu_ordena_produtos_sem_ordem"
+        android:title="sem ordem" />
+</menu>
